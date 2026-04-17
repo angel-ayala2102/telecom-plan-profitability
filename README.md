@@ -1,10 +1,10 @@
 # 📊 Análisis de Rentabilidad de Planes de Telecomunicaciones
 
-🇪🇸 Español | 🇺🇸 English
+🇲🇽 Español | 🇺🇸 English
 
 ---
 
-## 🇪🇸 Español
+## 🇲🇽 Español
 
 Proyecto de análisis de datos enfocado en evaluar la rentabilidad de planes de prepago en una empresa de telecomunicaciones.  
 El objetivo es identificar qué plan genera mayores ingresos y entender el comportamiento de consumo de los usuarios.
